@@ -95,7 +95,7 @@ Connects Claude to the Légifrance API via the French government's [PISTE](https
 
 ### 1. Download the plugin
 
-👉 Download [`legifrance-piste.plugin`](https://github.com/estellou/legifrance-piste/releases/latest/download/legifrance-piste.plugin)
+👉 Download [`legifrance-piste.plugin`](https://github.com/Estelle812/legifrance-piste/releases/latest/download/legifrance-piste.plugin)
 
 Double-click to install in Claude Desktop.
 
