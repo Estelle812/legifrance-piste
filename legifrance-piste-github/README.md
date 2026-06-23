@@ -29,7 +29,9 @@ Connecte Claude à l'API Légifrance via la passerelle [PISTE](https://piste.gou
 
 👉 Télécharger [`legifrance-piste.plugin`](https://github.com/Estelle812/legifrance-piste/releases/latest/download/legifrance-piste.plugin)
 
-Double-cliquer sur le fichier pour l'installer dans Claude Desktop.
+puis dans Claude Desktop :
+Settings → Capabilities → Plugins → Install from file
+Sélectionne le fichier .plugin téléchargé.
 
 ### 2. Installer `uv` (gestionnaire Python, une seule fois)
 
@@ -97,7 +99,9 @@ Connects Claude to the Légifrance API via the French government's [PISTE](https
 
 👉 Download [`legifrance-piste.plugin`](https://github.com/Estelle812/legifrance-piste/releases/latest/download/legifrance-piste.plugin)
 
-Double-click to install in Claude Desktop.
+then in Claude Desktop:
+Settings → Capabilities → Plugins → Install from file
+Select the downloaded .plugin file.
 
 ### 2. Install `uv` (Python runtime, once only)
 
