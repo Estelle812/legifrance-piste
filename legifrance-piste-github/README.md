@@ -27,7 +27,7 @@ Connecte Claude à l'API Légifrance via la passerelle [PISTE](https://piste.gou
 
 ### 1. Télécharger le plugin
 
-👉 Télécharger [`legifrance-piste.plugin`](https://github.com/estellou/legifrance-piste/releases/latest/download/legifrance-piste.plugin)
+👉 Télécharger [`legifrance-piste.plugin`](https://github.com/Estelle812/legifrance-piste/releases/latest/download/legifrance-piste.plugin)
 
 Double-cliquer sur le fichier pour l'installer dans Claude Desktop.
 
