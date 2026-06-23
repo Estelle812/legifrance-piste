@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: legifrance-piste
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server/legifrance_mcp.py
+    envVars:
+      - key: PISTE_CLIENT_ID
+        sync: false        # à renseigner manuellement dans le dashboard Render
+      - key: PISTE_CLIENT_SECRET
+        sync: false
